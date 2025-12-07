@@ -180,6 +180,7 @@ Real-time computer vision system for emotion-aware music curation
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirubb&bg_color=0D1117&color=FFA500&line=FF4500&point=FFFFFF&area=true&hide_border=true" width="49%" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
