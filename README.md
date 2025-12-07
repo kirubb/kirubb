@@ -4,11 +4,16 @@
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Bruno+Ace+SC&weight=700&size=55&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&repeat=true&width=600&height=80&lines=Kirit+Baruah;" alt="Kirit Baruah" />
+<img 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=64&duration=3500&pause=1200&color=FF4500&center=true&vCenter=true&repeat=true&width=680&height=80&lines=%3E+Kirit+Baruah_" 
+  alt="Kirit Baruah" 
+/>
+
 
   <img 
- src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=FFA500&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Software+Developer+%F0%9F%9A%80;Building+AI-Native+Applications+%F0%9F%A4%96;RAG+%26+LLM+Integration+Expert+%F0%9F%A7%A0;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Full+Stack+Dev+%F0%9F%9A%80;AI+Engineer+%F0%9F%A4%96;Cloud+Enthusiast+%E2%98%81%EF%B8%8F" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3800&pause=700&color=FFA500&center=true&vCenter=true&width=760&lines=Full-Stack+Software+Developer+🚀;AI-Native+Application+Engineer+🤖;RAG+and+LLM+Systems+🧠;Cloud+and+DevOps+Enthusiast+☁️" 
 />
+
   
   <br/>
   
@@ -182,15 +187,18 @@ Real-time computer vision system for emotion-aware music curation
 
 <br/>
 
-<a href="mailto:kiritbaruah@gmail.com">
+<a href="mailto:kiritbaruah@gmail.com" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/kirit-baruah">
+
+<a href="https://linkedin.com/in/kirit-baruah" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/kirubb">
+
+<a href="https://github.com/kirubb" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 
 <br/><br/>
 
