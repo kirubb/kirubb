@@ -108,20 +108,6 @@
 
 <div align="center">
 
-## 📊 GitHub Stats 📊
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kirubb&theme=radical&hide_border=true&background=0D1117&stroke=FF4500&ring=FFA500&fire=FF4500&currStreakLabel=FFA500" width="49%" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kirubb&bg_color=0D1117&color=FFA500&line=FF4500&point=FFFFFF&area=true&hide_border=true" width="49%" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
 ## 📫 Let's Connect! 📫
 
 <br/>
