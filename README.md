@@ -104,69 +104,7 @@
 
 <div align="center">
 
-## 🚀 Featured Projects 🚀
 
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 Therapy Co – Mental Health Platform
-<img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Status-Production-success?style=flat-square" />
-
-**Full-stack mental health ecosystem with intelligent features**
-
-✨ **Highlights:**
-- 👥 Multi-role architecture (Patient/Doctor/Admin)
-- 🔍 Smart therapist discovery & booking
-- 🤖 Integrated GenAI chatbot
-- 💊 Prescription management system
-- 🌙 Dark mode & responsive design
-
-**Tech:** React • Node.js • Express • MongoDB • Tailwind CSS
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 RAG PDF Chatbot – AI Knowledge Base
-<img src="https://img.shields.io/badge/Next.js-14-black?style=flat-square&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/AI-Powered-blue?style=flat-square&logo=openai&logoColor=white" />
-
-**Intelligent document Q&A with advanced RAG pipeline**
-
-✨ **Highlights:**
-- 📚 PDF ingestion & intelligent chunking
-- 🔎 Semantic search with pgvector
-- 💬 Real-time streaming responses
-- 🔐 Role-based access control
-- ⚡ Production-ready architecture
-
-**Tech:** Next.js • TypeScript • Gemini • PostgreSQL • Clerk
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🎵 More Projects (Click to Expand)</b></summary>
-<br/>
-
-### **Emotion-Based Music Recommendation System**
-Real-time computer vision system for emotion-aware music curation
-
-- 📸 Facial emotion detection via webcam
-- 🎧 Spotify API integration
-- 🧠 TensorFlow emotion classification
-
-**Tech:** Python • Flask • OpenCV • TensorFlow • Spotify API
-
-</details>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
 
